@@ -80,16 +80,16 @@ Model 4 represents fine-tuning of Model 2 on the entire training dataset (100%).
 
 
 ### Model 1:
-img url
+![History Model 1](images/model_1_history.png)
 
 ### Model 2:
-img url
+![History Model 2](images/model_2_histroy_plot.png)
 
 ### Model 3:
-img url
+![History Model 3](images/Model_3_history_plot.png)
 
 ### Model 4:
-img url 
+![History Model 4](images/model_4_history_plot.png)
 
 # Contact
 
