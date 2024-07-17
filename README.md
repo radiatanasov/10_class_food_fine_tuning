@@ -76,7 +76,8 @@ Model 4 represents fine-tuning of Model 2 on the entire training dataset (100%).
 ## Training Analysis Plots
 
 ### Model 0: 
-img url
+![History Model 0](images/history_model_0.png)
+
 
 ### Model 1:
 img url
